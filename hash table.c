@@ -182,8 +182,6 @@ void preview_ht(ht_t *ht)
                 for(i = 0; i < entry_number ; i++)  putchar(' ');  // just to improve readability
                 entry = entry->next_entry;
                 printf(" key = %s  content = %s\n", entry->key, entry->content);
-
-
             }
 
             printf("\n");
