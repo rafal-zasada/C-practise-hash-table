@@ -4,8 +4,6 @@
 #include<string.h>
 #include<stdio.h>
 
-
-
 ht_t *create_ht(void)
 {
     ht_t *ht = malloc(sizeof(ht_t) * 1);
