@@ -1,6 +1,7 @@
 hash table example.c
-obj/Debug/main.o
+obj/
+bin/
 CodeBlocks project.cbp
 CodeBlocks project.depend
 CodeBlocks project.layout
-bin/Debug/CodeBlocks project.exe
+
