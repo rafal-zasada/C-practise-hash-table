@@ -1,2 +1,2 @@
 # C-practise-hash-table
-Test 111
+Learning how to implement hash table in C.
